@@ -26,7 +26,7 @@ I love turning ideas into clean, interactive user interfaces using modern web te
 
 ### 📫 Connect With Me
 - **GitHub:** [@codearchitecture79-rgb](https://github.com)
-- **Email:** [your-email@example.com](mailto:codearchitecture79@gmail.com)
-- **LinkedIn / Portfolio:** [Add Link Here](www.linkedin.com/in/arpit-bind-ab46253a4)
+- **Email:** [codearchitecture79@gmail.com](mailto:codearchitecture79@gmail.com)
+- **LinkedIn / Portfolio:** [Arpit Bind](www.linkedin.com/in/arpit-bind-ab46253a4)
 
 *Open to student frontend internships, freelance web projects, and open-source collaboration!*
