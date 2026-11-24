@@ -17,10 +17,10 @@ I love turning ideas into clean, interactive user interfaces using modern web te
 
 | Project | Description | Live Demo & Code |
 | :--- | :--- | :--- |
-| **🤖 Gemini-Buddy** | An interactive AI chatbot web interface powered by the Gemini API. | [View Code](https://github.com) \| [Live Demo](https://geminibuddy.netlify.app/) |
-| **💱 Currency Converter** | Real-time global currency conversion tool with a fast, responsive layout. | [View Code](https://github.com) \| [Live Demo](https://currencyconverter79.netlify.app/) |
-| **🌦️ Weather App** | Responsive weather dashboard for checking real-time forecasts across Indian cities. | [View Code](https://github.com) \| [Live Demo](https://getweather79.netlify.app/) |
-| **🔐 Password Generator** | Customizable, strong random password generator with instant copy features. | [View Code](https://github.com) \| [Live Demo](https://passwordking.netlify.app/) |
+| **🤖 Gemini-Buddy** | An interactive AI chatbot web interface powered by the Gemini API. | [View Code](https://github.com/codearchitecture79-rgb/Gemini-Buddy) \| [Live Demo](https://geminibuddy.netlify.app/) |
+| **💱 Currency Converter** | Real-time global currency conversion tool with a fast, responsive layout. | [View Code](https://github.com/codearchitecture79-rgb/Currency-Converter) \| [Live Demo](https://currencyconverter79.netlify.app/) |
+| **🌦️ Weather App** | Responsive weather dashboard for checking real-time forecasts across Indian cities. | [View Code](https://github.com/codearchitecture79-rgb/Weather-App) \| [Live Demo](https://getweather79.netlify.app/) |
+| **🔐 Password Generator** | Customizable, strong random password generator with instant copy features. | [View Code](https://github.com/codearchitecture79-rgb/Password-Generator) \| [Live Demo](https://passwordking.netlify.app/) |
 
 ---
 
