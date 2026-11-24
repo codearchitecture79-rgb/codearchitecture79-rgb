@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there, I'm Arpit Bind 👋
 
-<!--
-**codearchitecture79-rgb/codearchitecture79-rgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Frontend Web Developer | Building Fast, Responsive Web Apps
 
-Here are some ideas to get you started:
+I love turning ideas into clean, interactive user interfaces using modern web technologies. Currently focused on sharpening my **React**, **JavaScript**, and **Frontend Architecture** skills while building real-world projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack & Tools
+- **Frontend:** HTML5, CSS3, JavaScript (ES6+), React, Vite
+- **Version Control & Deployment:** Git, GitHub, Netlify
+- **Currently Exploring:** Frontend System Design, REST APIs, Full-Stack (MERN)
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Live Demo & Code |
+| :--- | :--- | :--- |
+| **🤖 Gemini-Buddy** | An interactive AI chatbot web interface powered by the Gemini API. | [View Code](https://github.com) \| [Live Demo](#) |
+| **💱 Currency Converter** | Real-time global currency conversion tool with a fast, responsive layout. | [View Code](https://github.com) \| [Live Demo](https://netlify.app) |
+| **🌦️ Weather App** | Responsive weather dashboard for checking real-time forecasts across Indian cities. | [View Code](https://github.com) \| [Live Demo](#) |
+| **🔐 Password Generator** | Customizable, strong random password generator with instant copy features. | [View Code](https://github.com) \| [Live Demo](https://netlify.app) |
+
+---
+
+### 📫 Connect With Me
+- **GitHub:** [@codearchitecture79-rgb](https://github.com)
+- **Email:** [your-email@example.com](mailto:your-email@example.com)
+- **LinkedIn / Portfolio:** [Add Link Here](#)
+
+*Open to student frontend internships, freelance web projects, and open-source collaboration!*
