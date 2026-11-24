@@ -7,8 +7,8 @@ I love turning ideas into clean, interactive user interfaces using modern web te
 ---
 
 ### 🛠️ Tech Stack & Tools
-- **Frontend:** HTML5, CSS3, JavaScript (ES6+), React, Vite
-- **Version Control & Deployment:** Git, GitHub, Netlify
+- **Frontend:** HTML5, CSS3, JavaScript (ES6+), React, Vite, TailwindCSS
+- **Version Control & Deployment:** Git, GitHub, Netlify, Vercel
 - **Currently Exploring:** Frontend System Design, REST APIs, Full-Stack (MERN)
 
 ---
@@ -17,16 +17,16 @@ I love turning ideas into clean, interactive user interfaces using modern web te
 
 | Project | Description | Live Demo & Code |
 | :--- | :--- | :--- |
-| **🤖 Gemini-Buddy** | An interactive AI chatbot web interface powered by the Gemini API. | [View Code](https://github.com) \| [Live Demo](#) |
-| **💱 Currency Converter** | Real-time global currency conversion tool with a fast, responsive layout. | [View Code](https://github.com) \| [Live Demo](https://netlify.app) |
-| **🌦️ Weather App** | Responsive weather dashboard for checking real-time forecasts across Indian cities. | [View Code](https://github.com) \| [Live Demo](#) |
-| **🔐 Password Generator** | Customizable, strong random password generator with instant copy features. | [View Code](https://github.com) \| [Live Demo](https://netlify.app) |
+| **🤖 Gemini-Buddy** | An interactive AI chatbot web interface powered by the Gemini API. | [View Code](https://github.com) \| [Live Demo](https://geminibuddy.netlify.app/) |
+| **💱 Currency Converter** | Real-time global currency conversion tool with a fast, responsive layout. | [View Code](https://github.com) \| [Live Demo](https://currencyconverter79.netlify.app/) |
+| **🌦️ Weather App** | Responsive weather dashboard for checking real-time forecasts across Indian cities. | [View Code](https://github.com) \| [Live Demo](https://getweather79.netlify.app/) |
+| **🔐 Password Generator** | Customizable, strong random password generator with instant copy features. | [View Code](https://github.com) \| [Live Demo](https://passwordking.netlify.app/) |
 
 ---
 
 ### 📫 Connect With Me
 - **GitHub:** [@codearchitecture79-rgb](https://github.com)
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn / Portfolio:** [Add Link Here](#)
+- **Email:** [your-email@example.com](mailto:codearchitecture79@gmail.com)
+- **LinkedIn / Portfolio:** [Add Link Here](www.linkedin.com/in/arpit-bind-ab46253a4)
 
 *Open to student frontend internships, freelance web projects, and open-source collaboration!*
